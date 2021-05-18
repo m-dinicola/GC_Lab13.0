@@ -1,0 +1,13 @@
+U:\Mario\source\repos\RoChamBo\RoChamBo\bin\Debug\netcoreapp3.1\RoChamBo.exe
+U:\Mario\source\repos\RoChamBo\RoChamBo\bin\Debug\netcoreapp3.1\RoChamBo.deps.json
+U:\Mario\source\repos\RoChamBo\RoChamBo\bin\Debug\netcoreapp3.1\RoChamBo.runtimeconfig.json
+U:\Mario\source\repos\RoChamBo\RoChamBo\bin\Debug\netcoreapp3.1\RoChamBo.runtimeconfig.dev.json
+U:\Mario\source\repos\RoChamBo\RoChamBo\bin\Debug\netcoreapp3.1\RoChamBo.dll
+U:\Mario\source\repos\RoChamBo\RoChamBo\bin\Debug\netcoreapp3.1\RoChamBo.pdb
+U:\Mario\source\repos\RoChamBo\RoChamBo\obj\Debug\netcoreapp3.1\RoChamBo.csprojAssemblyReference.cache
+U:\Mario\source\repos\RoChamBo\RoChamBo\obj\Debug\netcoreapp3.1\RoChamBo.AssemblyInfoInputs.cache
+U:\Mario\source\repos\RoChamBo\RoChamBo\obj\Debug\netcoreapp3.1\RoChamBo.AssemblyInfo.cs
+U:\Mario\source\repos\RoChamBo\RoChamBo\obj\Debug\netcoreapp3.1\RoChamBo.csproj.CoreCompileInputs.cache
+U:\Mario\source\repos\RoChamBo\RoChamBo\obj\Debug\netcoreapp3.1\RoChamBo.dll
+U:\Mario\source\repos\RoChamBo\RoChamBo\obj\Debug\netcoreapp3.1\RoChamBo.pdb
+U:\Mario\source\repos\RoChamBo\RoChamBo\obj\Debug\netcoreapp3.1\RoChamBo.genruntimeconfig.cache
