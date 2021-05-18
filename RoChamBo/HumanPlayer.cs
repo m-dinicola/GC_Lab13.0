@@ -22,13 +22,15 @@ namespace RoChamBo
                 Console.WriteLine(string.Format("Please select a figure to throw against your opponent:\n 1. {0, -15}2. {1, -15}3. {2, -15}",
                                             Enum.GetName(rpsType, RPS.ROCK), Enum.GetName(rpsType, RPS.PAPER), Enum.GetName(rpsType, RPS.SCISSORS)));
                 string response = Console.ReadLine().Trim();
-                if(int.TryParse(response, out int intResult) && Enum.IsDefined(rpsType, intResult-1))
-                {
-                    selection = (RPS)(intResult-1);
-                    return;
+                if (int.TryParse(response, out int intResult)) {
+                    if (Enum.IsDefined(rpsType, (intResult - 1)))
+                    {
+                        selection = (RPS)(intResult - 1);
+                        return;
+                    }
                 }
 
-                if (Enum.TryParse<RPS>(response, true, out RPS result))
+                else if (Enum.TryParse<RPS>(response, true, out RPS result))
                 {
                     selection = result;
                     return;
