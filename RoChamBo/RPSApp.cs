@@ -92,7 +92,7 @@ namespace RoChamBo
 
         public void PrintScore()
         {
-            Console.WriteLine($"{human.Name} has won {PlayerScore} game(s). {opponent.Name} has won {OpponentScore} games.");
+            Console.WriteLine($"{human.Name} has won {PlayerScore} game(s). {opponent.Name} has won {OpponentScore} game(s).");
         }
 
         public int CalculateWinner()
